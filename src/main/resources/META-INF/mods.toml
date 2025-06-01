@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)" # 对应Forge 1.20.1
+license="MIT"
+[[mods]]
+modId="globalhealthmod"
+version="${file.jarVersion}"
+displayName="Global Health Mod"
+authors="YourName"
+description="Modifies health of all mobs globally with configurable multiplier and blacklist/whitelist."
